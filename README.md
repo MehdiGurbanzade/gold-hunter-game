@@ -2,6 +2,8 @@
 
 Collect 10 gold coins, avoid the monsters and reach the exit door. A small arcade game written in Python with Pygame.
 
+<p align="center"><img src="images/screenshot.png" width="650" alt="Gold Hunter gameplay"></p>
+
 ## Highlights
 
 - **Three difficulty levels**: Easy (2 monsters, speed 2), Medium (4 monsters, speed 3), Hard (6 monsters, speed 4)
@@ -29,6 +31,7 @@ Collect 10 gold coins, avoid the monsters and reach the exit door. A small arcad
 | `monster.png` | Monster sprite |
 | `door.png` | Exit door sprite |
 | `requirements.txt` | Python dependencies (pygame-ce) |
+| `images/screenshot.png` | Gameplay screenshot used in this README |
 
 ## How to run
 
